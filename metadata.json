@@ -1,0 +1,12 @@
+{
+    "attribution": "Mapbox", 
+    "description": "A map of the United States inspired by the impossible-to-fold maps in your glovebox.", 
+    "center": "-96.33532714843722,33.67337400440639,4", 
+    "bounds": "-156.4453,-23.564,-30.5859,80.1186", 
+    "minzoom": "3", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "5", 
+    "legend": "", 
+    "name": "Road Trip"
+}
